@@ -1,0 +1,4 @@
+com/games/guess/BuildConfig.java
+ com.games.guess.BuildConfig
+com/games/guess/MainActivity.java
+ com.games.guess.MainActivity
